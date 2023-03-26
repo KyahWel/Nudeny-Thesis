@@ -1,0 +1,18 @@
+[submodule "Nudeny-discord-bot"]
+	path = Nudeny-discord-bot
+	url = https://github.com/Nudeny/Nudeny-discord-bot.git
+[submodule "Nudeny-python-module"]
+	path = Nudeny-python-module
+	url = https://github.com/Nudeny/Nudeny-python-module.git
+[submodule "Nudeny-browser-extension"]
+	path = Nudeny-browser-extension
+	url = https://github.com/Nudeny/Nudeny-browser-extension.git
+[submodule "Nudeny-API"]
+	path = Nudeny-API
+	url = https://github.com/Nudeny/Nudeny-API.git
+[submodule "Nudeny-javascript-module"]
+	path = Nudeny-javascript-module
+	url = https://github.com/Nudeny/Nudeny-javascript-module.git
+[submodule "Nudeny-documentation"]
+	path = Nudeny-documentation
+	url = https://github.com/Nudeny/Nudeny-documentation.git
